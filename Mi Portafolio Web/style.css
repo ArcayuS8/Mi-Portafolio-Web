@@ -1,0 +1,101 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Encabezado y navegación */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Secciones */
+.hero {
+    background-color: #f4f4f4;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.projects {
+    background-color: #fff;
+    padding: 100px 0;
+}
+
+.skills {
+    background-color: #f4f4f4;
+    padding: 100px 0;
+}
+
+.skills .skill {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.skills .skill img {
+    width: 40px; /* Ajusta el ancho según sea necesario */
+    height: auto; /* Mantén la proporción de la imagen */
+    margin-right: 10px;
+}
+
+.skills .skill h3 {
+    margin: 0;
+    margin-right: 10px; /* Agrega un margen a la derecha para separar del nombre */
+}
+
+.skills .skill .stars {
+    display: inline-block;
+    font-size: 24px; /* Ajusta el tamaño de las estrellas */
+    color: gold; /* Cambia el color de las estrellas según tu preferencia */
+    margin-left: 10px;
+}
+
+.skills .skill .star {
+    font-size: 24px;
+    color: gold;
+    margin-right: 5px;
+}
+
+.about {
+    background-color: #fff;
+    padding: 100px 0;
+}
+
+.contact {
+    background-color: #333;
+    color: #fff;
+    padding: 100px 0;
+}
+
+/* Pie de página */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
