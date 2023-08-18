@@ -7,7 +7,11 @@
 
 - 📫 How to reach me **jmaspera8@gmail.com**
 
-- 😄 To see my web portfolio **download** the folder named *"Mi Portafolio Web"*. Then you will see my website by openning the "index.html" file. **No installation necessary**.
+- 😄 To see my web portfolio, **download** the folder named *"Mi Portafolio Web"*. Then you will see my website by openning the "index.html" file.
+
+- ⚒ On my website you can also see all my projects.
+
+- ❌ **No installation necessary**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
