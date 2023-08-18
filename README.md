@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Python, JavaScript and more.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ArcayuS8](https://github.com/ArcayuS8)
+- 👨‍💻 All of my projects are available at [https://github.com/ArcayuS8](https://github.com/ArcayuS8).
 
-- 📫 How to reach me **jmaspera8@gmail.com**
+- 📫 How to reach me **jmaspera8@gmail.com**.
 
 - 😄 To see my web portfolio, **download** the folder named *"Mi Portafolio Web"*. Then you will see my website by openning the "index.html" file.
 
