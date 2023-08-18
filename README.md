@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArcayuS8](https://github.com/ArcayuS8)
 
-- 📫 How to reach me **jmaspera@gmail.com**
+- 📫 How to reach me **jmaspera8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
